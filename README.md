@@ -58,32 +58,23 @@ Key features:
 
 ## 🖼️ Results
 
-### Synthetic / Simulated Data
-
-<!-- Replace the placeholder below with your actual result figure -->
-*Synthetic data testing results will be shown here. A simulated test dataset is provided in `data/synthetic/` — see [Quick Start](#-quick-start).*
-
-| Input (Noisy) | Predicted (Clean) | Residual (Noise) |
-|:---:|:---:|:---:|
-| *(figure placeholder)* | *(figure placeholder)* | *(figure placeholder)* |
-
-### Field Data (DASVSP)
+### Field Data (DAS-VSP)
 
 > ⚠️ **Note:** Field seismic data cannot be publicly released due to confidentiality agreements with the oil & gas company that provided the data. The experimental results on field data are shown below for reference only.
 
 <!-- Add your field data result figures here -->
 
-**Figure 1 — Field data denoising example:**
+**Figure 1 — Field data 1 denoising example:**
 
-*![实际数据1](figures/result_comparison.png)*
+*![实际数据1](https://github.com/fqk1994/DCTformer/blob/main/IMG_2296.GIF)*
 
-**Figure 2 — Frequency spectrum analysis:**
+**Figure 2 — Field data 2 denoising example:**
 
-*![实际数据2](figures/result_comparison.png)*
+*![实际数据2](https://github.com/fqk1994/DCTformer/blob/main/IMG_2295.GIF)*
 
-**Figure 3 — Field data denoising example:**
+**Figure 3 — Field data 3 denoising example:**
 
-*![实际数据3](figures/result_comparison.png)*
+*![实际数据3](https://github.com/fqk1994/DCTformer/blob/main/IMG_2297.GIF)*
 
 ---
 
